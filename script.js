@@ -14,30 +14,30 @@ const perguntas = [
             },
             {
                 texto: "Priorização de gastos",
-                afirmação: "ss."
+                afirmação: "Priorize as despesas como, moradia,alimentação e sáude"
             }
         ]
     },
     {
-        enunciado: "As escolas brasileiras integrarão a tecnologia nas aulas de ensino religioso?",
+        enunciado: "Como o orçamento detalhado pode ajudar?",
         alternativas: [
             {
-                texto:  "Sim, as escolas brasileiras integrarão a tecnologia nas aulas de ensino religioso.",
-                afirmação: "As escolas brasileiras integrarão a tecnologia nas aulas de ensino religioso."
+                texto:  "Indentificando despesas Excessivas",
+                afirmação: "Pode indentificar áreas onde está gastando mais que deveria."
             },
             {
-                texto: "Não, as escolas brasileiras não integrarão a tecnologia nas aulas de ensino religioso.",
-                afirmação: "As escolas brasileiras não integrarão a tecnologia nas aulas de ensino religioso."
+                texto: "Como a priorização de gastos pode ajudar?",
+                afirmação: "Ajuda a equilibrar o orçamento,cortando despesas desnecessárias."
             }
         ]
 
     },
     {
-        enunciado: "Haverá um maior diálogo inter-religioso nas escolas brasileiras?",
+        enunciado: "Após fazer um orcamento detalhado como ele ajudara na minha situação financeira?",
         alternativas: [
             {
-                texto: "Sim, haverá um maior diálogo inter-religioso nas escolas brasileiras",
-                afirmação: "Haverá um maior diálogo inter-religioso nas escolas brasileiras."
+                texto: "Ajuda a controlar despesas, economizar dinheiro.",
+                afirmação: "Planejar metas financeiras e reduir dividas."
             },
             {
                 texto: "Não, não haverá um maior diálogo inter-religioso nas escolas brasileiras.",
