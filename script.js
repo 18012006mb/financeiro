@@ -45,32 +45,7 @@ const perguntas = [
             }
         ]
     },
-    {
-        enunciado: "O ensino religioso contribuirá para a formação de cidadãos mais tolerantes e respeitosos?",
-        alternativas: [
-            {
-                texto: "Sim, o ensino religioso contribuirá para a formação de cidadãos mais tolerantes e respeitosos.",
-                afirmação: "O ensino religioso contribuirá para a formação de cidadãos mais tolerantes e respeitosos."
-            },
-            {
-                texto: "Não, o ensino religioso não contribuirá para a formação de cidadãos mais tolerantes e respeitosos.",
-                afirmação: "O ensino religioso não contribuirá para a formação de cidadãos mais tolerantes e respeitosos."
-            }
-        ]
-    },
-    {
-        enunciado: "As políticas públicas incentivarão a inclusão do ensino religioso no currículo escolar?",
-        alternativas: [
-            {
-                texto: "Sim, as políticas públicas incentivarão a inclusão do ensino religioso no currículo escolar.",
-                afirmação: "As políticas públicas incentivarão a inclusão do ensino religioso no currículo escolar."
-            },
-            {
-                texto: "Não, as políticas públicas não incentivarão a inclusão do ensino religioso no currículo escolar.",
-                afirmação: "As políticas públicas não incentivarão a inclusão do ensino religioso no currículo escolar."
-            }
-        ]
-    },
+
 ];
 let atual = 0;
 let perguntaAtual;
